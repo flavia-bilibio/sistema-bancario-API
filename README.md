@@ -37,8 +37,8 @@ SSH:
 git clone git@github.com:flavia-bilibio/sistema-bancario-API.git
 
 ### 2. Instale as dependências
-npm install express
-npm install -D nodemon
+- npm install express
+- npm install -D nodemon
 
 ### 3. Execute o backend
 npm run dev
